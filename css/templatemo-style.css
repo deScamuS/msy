@@ -186,16 +186,15 @@ body {
 
   border-bottom: 3px solid #f23b3b;
 
-  height: 45vh;
+  height: 80vh;
 
   background-image: url(
 
-    ../images/ariel.jpeg
+    ../images/mist.JPG
 
   );
 
 }
-
 
 
 .bg__third {
@@ -206,27 +205,28 @@ body {
 
   background-image: url(
 
-    ../images/boat-detail-1.jpeg
+    ../images/water.jpg
 
   );
 
 }
-
-
-
 .bg__fourth {
 
-  height: 100vh;
+  border-bottom: 3px solid #f23b3b;
 
-
+  height: 80vh;
 
   background-image: url(
 
-    ../images/buddy.jpeg
+    ../images/woodenboat.jpeg
 
   );
 
 }
+
+
+
+
 
 
 
@@ -790,7 +790,7 @@ body {
 
   height: 2px;
 
-  background-color: #ddd;
+  background-color: rgb(202, 193, 193);
 
 }
 
@@ -1513,6 +1513,7 @@ footer {
 
 
 .posts img {
+  text-align: center; 
 
 
 
