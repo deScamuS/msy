@@ -168,7 +168,7 @@ body {
 
     ../images/mist.JPG
 
-  );
+  ) no-repeat center; 
 
 }
 
@@ -186,7 +186,7 @@ body {
 
     ../images/oldwoody.jpeg
 
-  );
+  ) no-repeat center; 
 
 }
 
@@ -214,16 +214,13 @@ body {
     height: 95.0vh;
   
     min-height: 440px;
-  
+   
   
   }
-  border-bottom: 3px solid #f23b3b;
-
-  height: 80vh;
-
   
+  .border-bottom 3px solid #f23b3b;
 
-
+  height: 50vh;
 }
 
 
