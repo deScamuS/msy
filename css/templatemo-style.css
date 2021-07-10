@@ -188,11 +188,7 @@ body {
 
   height: 80vh;
 
-  background-image: url(
-
-    ../images/lakeminny.jpg
-
-  );
+  background-color:lightskyblue;
 
 }
 
@@ -216,11 +212,8 @@ body {
 
   height: 80vh;
 
-  background-image: url(
+  background-color: gray
 
-    ../images/woodenboat.jpeg
-
-  );
 
 }
 
