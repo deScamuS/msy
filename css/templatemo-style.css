@@ -180,6 +180,25 @@ body {
 
 }
 
+.bg__third{
+
+  background-image: url(
+
+    ../images/oldwoody.jpeg
+
+  );
+
+}
+
+.bg__third .container {
+
+  height: 75.5vh;
+
+  min-height: 440px;
+
+}
+
+
 
 
 
@@ -189,11 +208,7 @@ body {
 
 
 
-  background-image: url(
-
-    ../images/lonesail.jpg
-
-  );
+  
 
 }
 .bg__fourth {
@@ -202,7 +217,7 @@ body {
 
   height: 80vh;
 
-  background-image: url(../images/lonesail.jpg);
+  
 
 
 }
