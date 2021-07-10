@@ -134,6 +134,7 @@ body {
 
   /* fix background */
 
+  background-attachment: fixed;
 
 
 
@@ -167,7 +168,7 @@ body {
 
     ../images/mist.JPG
 
-  ) no-repeat center; 
+  );
 
 }
 
@@ -179,48 +180,57 @@ body {
 
 }
 
-.bg__third{
+.bg__second {
 
   background-image: url(
 
     ../images/oldwoody.jpeg
 
-  ) no-repeat center; 
+  );
+
+}
+
+.bg__second .container {
+
+  height: 85.5vh;
+
+  min-height: 440px;
+
+}
+.bg__third{
+
+  background-image: url(
+
+    ../images/water.jpg
+
+  );
 
 }
 
 .bg__third .container {
 
-  height: 95.0vh;
+  height: 74.0vh;
 
   min-height: 440px;
 
 
 }
 .bg__fourth {
+  background-image: url(
 
+    ../images/water.jpg
 
-    background-image: url(
-  
-      ../images/oldwoody.jpeg
-  
-    );
-  
-  }
-  
+  );
+  border-bottom: 3px solid #f23b3b;
+
+  height: 80vh;
+}
   .bg__fourth .container {
-  
+
     height: 95.0vh;
   
     min-height: 440px;
-   
-  
   }
-  
-  .border-bottom 3px solid #f23b3b;
-
-  height: 50vh;
-}
 
 
 
