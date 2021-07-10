@@ -196,23 +196,27 @@ body {
 
   min-height: 440px;
 
-}
-
-
-
-
-
-.bg__third {
-
-  height: 100vh;
-
-
-
-  
 
 }
 .bg__fourth {
 
+
+    background-image: url(
+  
+      ../images/oldwoody.jpeg
+  
+    );
+  
+  }
+  
+  .bg__fourth .container {
+  
+    height: 95.0vh;
+  
+    min-height: 440px;
+  
+  
+  }
   border-bottom: 3px solid #f23b3b;
 
   height: 80vh;
