@@ -182,16 +182,6 @@ body {
 
 
 
-.bg__second {
-
-  border-bottom: 3px solid #f23b3b;
-
-  height: 80vh;
-
-  background-color:lightskyblue;
-
-}
-
 
 .bg__third {
 
@@ -212,7 +202,7 @@ body {
 
   height: 80vh;
 
-  background-color: gray
+  background-image: url(../images/lonesail.jpg);
 
 
 }
